@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Tushar Singh</title>
+    <link>https://tusharsingh62.github.io/portfolio/</link>
+    <description>Recent content in Portfolio on Tushar Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tusharsingh62.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Andorid play store apps analysis</title>
+      <link>https://tusharsingh62.github.io/portfolio/post/project-1/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tusharsingh62.github.io/portfolio/post/project-1/</guid>
+      <description>Data visualisation with the help of a case study. It enable us to understand how visualisation aids in solving business problems  Data Handling and Cleaning Techniques   Missing Values
+ Dropping the rows containing the missing values Imputing the missing values Keep the missing values if they don&amp;rsquo;t affect the analysis    Incorrect Data Types
+ Clean certain values Clean and convert an entire column    Sanity Checks: The data that we have needs to make sense and therefore we can perform certain sanity checks on them to ensure they are factually correct as well.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Churn Predictive Modeling</title>
+      <link>https://tusharsingh62.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 May 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://tusharsingh62.github.io/portfolio/post/project-2/</guid>
+      <description>Predict behavior to retain customers. We can analyze all relevant customer data and develop focused customer retention programs
+Full details and Implementation  Notebook Visualisation Project on GitHub  Prediction score on several machine learning algorithms </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tusharsingh62.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tusharsingh62.github.io/portfolio/contact/</guid>
+      <description>Email ID: | tusharsingh62@gmail.com
+LinkdIn: | https://www.linkedin.com/in/tushar-singh-a2b55213b/
+GitHub: | https://github.com/tusharsingh62</description>
+    </item>
+    
+  </channel>
+</rss>
